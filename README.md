@@ -4,7 +4,7 @@
 
 To submit your homework:
 
-* clone this repo, from your github account (just the first time)
+* fork this repo, from your github account (just the first time)
 * pull this repo to your computer
 * create a new branch, ex: module-1-homework-[yourusername]
 * create a folder in module-[x]/homework/[yourusername]
